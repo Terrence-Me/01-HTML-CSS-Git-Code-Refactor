@@ -44,6 +44,10 @@ a {
   color: #ffffff;
   text-decoration: none;
 }
+a:hover {
+  text-decoration: underline;
+  font-size: 1.25rem;
+}
 
 p {
   font-size: 1rem;
